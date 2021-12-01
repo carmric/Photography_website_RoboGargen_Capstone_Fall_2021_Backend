@@ -1,0 +1,1 @@
+SELECT * FROM photography_website.images_table;
